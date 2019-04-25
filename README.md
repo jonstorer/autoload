@@ -2,5 +2,5 @@
 example for rails active support issue
 
 ```
-ruby example.rb
+ruby autoload.rb
 ```
